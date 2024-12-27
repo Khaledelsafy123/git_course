@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>صفحة تجريبية</title>
+</head>
+<body>
+    <h1>مرحبًا بالعالم!</h1>
+</body>
+</html>
